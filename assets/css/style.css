@@ -1,0 +1,20 @@
+body, table {
+    font-family: 'IM Fell English', serif;
+    background: url("../images/topography.png");
+}
+
+.container {
+    margin-bottom: 20px;
+}
+
+.parchment {
+    background-color: tan;
+}
+
+button {
+    margin-bottom: 10px;
+}
+
+label {
+    font-size: 18px;
+}
